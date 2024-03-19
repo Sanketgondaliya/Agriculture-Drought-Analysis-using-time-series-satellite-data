@@ -33,5 +33,7 @@ CHIRPS (Climate Hazards Group InfraRed Precipitation with Station data) is a wid
        PCI (Precipitation condition index)=((RF - RFmin) / (RFmax - RFmin)) x 100
        
 DSI(0 to 25) => severe drought 
+
 DSI(25 to 50) => moderate drought 
+
 DSI(>50) => no drought
