@@ -23,3 +23,12 @@ Satellite datasets for Land Surface Temperature (LST) provide valuable informati
 
 
 CHIRPS (Climate Hazards Group InfraRed Precipitation with Station data) is a widely used rainfall dataset that provides global precipitation information at high spatial and temporal resolutions. CHIRPS combines satellite- derived infrared measurements with ground-based precipitation data to estimate rainfall. It covers a historical period dating back to 1981 and is regularly updated. CHIRPS data is commonly used for monitoring and analysing precipitation patterns, drought assessment, flood prediction, crop monitoring, and climate research.And the third one is RAINFALL(Precipitation) which is also derived from CHIRP’S satellite data from google earth engine by a script code of during kharif season means months are July,August,September from year 2014 to 2018 and 2020.
+
+#  Agricultural Drought Analytics Using DSI (Drought Severity Index) 
+    DSI (Drought Severity Index) = (0.24*VCI) +(0.06*TCI) +(0.7*PCI)
+
+    where
+       VCI(Vegetation Condition Index) = ((NDVI - NDVImin) / (NDVImax - NDVImin)) x 100
+       TCI(Temperature Condition Index ) = ((LSTmax - LST ) / (LSTmax - LSTmin)) x 100
+       PCI (Precipitation condition index)=((RF - RFmin) / (RFmax - RFmin)) x 100
+       
