@@ -37,3 +37,42 @@ DSI(0 to 25) => severe drought
 DSI(25 to 50) => moderate drought 
 
 DSI(>50) => no drought
+
+# Result
+Year 2014 :
+
+Severe Drought Region : Bhuj, Lakhpat, Abdasa
+Moderate Drought Region : Bhachau, Mandvi, Mundra, Nakhtrana, Anjar
+Low Drought Region : Gandhidham, Rapar
+
+
+Year 2015 :
+
+Severe Drought Region : Bhuj
+Moderate Drought Region : Abdasa, Nakhtrana, Lakhpat, Rapar
+Low Drought Region : Mandvi, Mundra,Anjar,Bhachau,Gandhidham
+
+
+Year 2016 :
+
+Severe Drought Region : Bhuj, Abdasa, Lakhpat
+Moderate Drought Region : Mandvi, Mundra, Nakhtrana, Anjar, Gandhidham, Bhachau
+Low Drought Region : Rapar
+
+Year 2017 :
+
+Severe Drought Region : Bhuj, Lakhpat
+Moderate Drought Region : Abdasa, Nakhtrana, Anjar, Mandvi, Mundra
+Low Drought Region : Gandhidham, Rapar, Bhachau
+
+Year 2018 :
+
+Severe Drought Region : Bhuj, Lakhpat, Abdasa
+Moderate Drought Region : Nakhtrana, Anjar, Mandvi, Mundra, Gandhidham
+Low Drought Region : Bhachau, Rapar
+
+Year 2020 :
+
+Severe Drought Region : Bhuj, Rapar, Bhachau
+Moderate Drought Region : Anjar
+Low Drought Region :   Nakhtrana, Mandvi, Mundra, Gandhidham,  Lakhpat, Abdasa 
